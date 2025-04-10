@@ -6,6 +6,20 @@ const fs = require('fs');
 const baseUrl = 'https://today.hit.edu.cn';
 const targetUrl = `${baseUrl}/category/10`;
 
+async function getFullContent(url) {
+  try {
+    const res = await axios.get(url);
+    const $ = cheerio.load(res.data);
+
+    // 正文内容（你可根据实际结构微调）
+    const contentHtml = $('.field--name-body').html() || $('.content').html() || '';
+    return contentHtml.trim();
+  } catch (err) {
+    console.error(`❌ 抓取失败：${url}`);
+    return '（正文抓取失败）';
+  }
+}
+
 (async () => {
   const { data } = await axios.get(targetUrl);
   const $ = cheerio.load(data);
@@ -18,19 +32,24 @@ const targetUrl = `${baseUrl}/category/10`;
     language: 'zh-cn',
   });
 
-  $('ul.paragraph.list-tooltip li').each((_, el) => {
+  const items = $('ul.paragraph.list-tooltip li').slice(0, 10).toArray(); // 只抓10条防止太慢
+
+  for (const el of items) {
     const a = $(el).find('span.title.top a');
     const title = a.text().trim();
     const link = baseUrl + a.attr('href');
-    const date = $(el).find('.date').text().trim();
+    const dateText = $(el).find('.date').text().trim();
+
+    const content = await getFullContent(link);
 
     feed.item({
       title,
       description: title,
       url: link,
-      date: new Date(), // 或可以做进一步处理
+      date: new Date(), // 你也可以 parse dateText
+      custom_elements: [{ 'content:encoded': content }]
     });
-  });
+  }
 
   fs.writeFileSync('feed.xml', feed.xml({ indent: true }));
 })();
