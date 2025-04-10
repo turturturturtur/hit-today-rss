@@ -1,0 +1,25 @@
+name: Generate RSS
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # 每 30 分钟运行一次
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npm install
+      - run: npm run start
+      - name: Commit RSS Feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "Update RSS feed" || echo "No changes"
+          git push
