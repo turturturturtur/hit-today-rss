@@ -18,8 +18,9 @@ jobs:
       - run: npm run start
       - name: Commit RSS Feed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
-          git commit -m "Update RSS feed" || echo "No changes"
-          git push
+            git config user.name "${{ github.actor }}"
+            git config user.email "${{ github.actor }}@users.noreply.github.com"
+            git add feed.xml
+            git commit -m "Update RSS feed" || echo "No changes"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        
