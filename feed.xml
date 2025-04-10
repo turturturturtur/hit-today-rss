@@ -4,7 +4,7 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Apr 2025 09:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 09:15:56 GMT</lastBuildDate>
         <atom:link href="https://yourusername.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
     </channel>
