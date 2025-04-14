@@ -4,15 +4,106 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Apr 2025 23:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 00:52:32 GMT</lastBuildDate>
         <atom:link href="https://turturturturtur.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
+        <item>
+            <title><![CDATA[2025年全国大学生物联网设计竞赛（华为杯）报名通知]]></title>
+            <description><![CDATA[2025年全国大学生物联网设计竞赛（华为杯）报名通知]]></description>
+            <link>https://today.hit.edu.cn/article/2025/04/14/120769</link>
+            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/14/120769</guid>
+            <pubDate>Mon, 14 Apr 2025 00:52:08 GMT</pubDate>
+            <content:encoded>&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;大赛简介&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;“全国大学生物联网设计竞赛”是以促进物联网等新一代信息技术相关专业建设和人才培养为目标，激发学生的创新、创业活力，推动高校双创教育而举办的面向大学生的学科竞赛。2&lt;/font&gt;023&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;3月中国高等教育学会发布《2&lt;/font&gt;022&lt;font face=&quot;宋体&quot;&gt;全国普通高校大学生竞赛分析报告》，本竞赛新增进入竞赛榜单。&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;2&lt;/font&gt;014&lt;font face=&quot;宋体&quot;&gt;-&lt;/font&gt;2024&lt;font face=&quot;宋体&quot;&gt;年已成功举办十一届，&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;2&lt;/font&gt;025&lt;font face=&quot;宋体&quot;&gt;年赛委会继续主办&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;“2&lt;/font&gt;025&lt;font face=&quot;宋体&quot;&gt;年第十二届全国大学生物联网设计竞赛&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;”。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;本竞赛为我校优势赛事，自参赛以来共获奖&lt;/font&gt;241&lt;font face=&quot;宋体&quot;&gt;项，其中国赛一等奖&lt;/font&gt;31&lt;font face=&quot;宋体&quot;&gt;项、二等奖&lt;/font&gt;30&lt;font face=&quot;宋体&quot;&gt;项、三等奖&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;1&lt;/font&gt;6&lt;font face=&quot;宋体&quot;&gt;项，省赛获奖&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;1&lt;/font&gt;62&lt;font face=&quot;宋体&quot;&gt;项，并&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;3次捧得华为杯/&lt;/font&gt;TI&lt;font face=&quot;宋体&quot;&gt;杯。&lt;/font&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;竞赛组织机构&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;主办单位：全国高等学校计算机教育研究会&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-left:80px; text-indent:-60.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;承办单位：南京大学、西安电子科技大学、哈尔滨工业大学、东北大学、北京工业大学、湖南大学、贵州大学、浙江大学、深圳大学、上海交通大学&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-left:144px; text-indent:-108.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;竞赛金牌合作伙伴：华为、乐鑫信息科技、霍尼韦尔、&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;C&lt;/font&gt;SA&lt;font face=&quot;宋体&quot;&gt;联盟、广和通、&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;T&lt;/font&gt;I&lt;font face=&quot;宋体&quot;&gt;、火山引擎、涂鸦智能&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;支持单位：机械工业出版&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;竞赛组委会秘书处：上海交通大学&lt;/font&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;参赛对象&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+	&lt;li class=&quot;15&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;参赛对象为普通高校全日制在校学生，也欢迎优秀的职业学校全日制在校学生参赛。&lt;/font&gt;&lt;/li&gt;
+	&lt;li class=&quot;15&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;参赛学校以参赛队为基本单位报名参赛，同一所学校可组织多支参赛队，来自不同学校的学生不能联合组队参赛。每支参赛队参赛学生不超过&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;4人，指导教师不超过2人。参赛指导教师可同时带领本校的多支参赛队，但参赛学生只能同时参加1支参赛队。&lt;/font&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;赛事流程&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol start=&quot;12&quot; style=&quot;list-style-type:lower-alpha&quot;&gt;
+	&lt;li class=&quot;15&quot; value=&quot;50&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;第一阶段：报名和线上作品提交阶段&lt;/font&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p style=&quot;margin-left:177px; text-indent:-132.5000pt; text-align:justify&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;/b&gt;&lt;b&gt;4&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;月&lt;/font&gt;&lt;/b&gt;&lt;b&gt;5&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;日前&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;宋体&quot;&gt;组委会发布竞赛通知、章程和竞赛命题。为促进参赛师生与业界的交流，提高参赛作品质量，竞赛组委会邀请合作伙伴设计了若干具有挑战性的竞赛命题，竞赛合作伙伴将选派资深工程师来指导选择这些命题的参赛队伍，并免费获得组委会发放的相关技术平台。使用推荐技术平台参赛将获得适当的加分。&lt;/font&gt;&lt;b&gt; &lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;参赛队也可以自拟竞赛主题。&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-left:177px; text-indent:-132.5000pt; text-align:justify&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;2.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;4月-&lt;/font&gt;&lt;/b&gt;&lt;b&gt;6&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;月&lt;/font&gt; &lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;组委会线下举办&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;2&lt;/font&gt;0&lt;font face=&quot;宋体&quot;&gt;场技术讲座&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;+线上举办5场技术讲座。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-left:177px; text-indent:-132.5000pt; text-align:justify&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;6月1&lt;/font&gt;&lt;/b&gt;&lt;b&gt;5&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;日&lt;/font&gt; &lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;线上提交报名表截止。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-left:177px; text-indent:-132.5000pt; text-align:justify&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;7月&lt;/font&gt;&lt;/b&gt;&lt;b&gt;27&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;日&lt;/font&gt; &lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;作品完整设计方案和作品实物演示视频线上提交截止。&lt;/font&gt;&lt;/p&gt;
+
+&lt;ol start=&quot;12&quot; style=&quot;list-style-type:lower-alpha&quot;&gt;
+	&lt;li class=&quot;15&quot; value=&quot;50&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;第二阶段：分赛区竞赛阶段&lt;/font&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p style=&quot;margin-left:193px; text-indent:-144.5500pt; text-align:justify&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;5.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&amp;nbsp;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;8月1&lt;/font&gt;&lt;/b&gt;&lt;b&gt;0&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;日前&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;宋体&quot;&gt;各分赛区完成网上作品评审，公布入围分赛区决赛名单。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;6.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&amp;nbsp;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;8月2&lt;/font&gt;&lt;/b&gt;&lt;b&gt;0&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;日前&lt;/font&gt; &lt;/b&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;各分赛区决赛、公布入围全国总决赛名单。&lt;/font&gt;&lt;/p&gt;
+
+&lt;ol start=&quot;12&quot; style=&quot;list-style-type:lower-alpha&quot;&gt;
+	&lt;li class=&quot;15&quot; value=&quot;50&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;第三阶段：全国总决赛&lt;/font&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;7.&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&amp;nbsp;2025&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;8月2&lt;/font&gt;&lt;/b&gt;&lt;b&gt;0&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;-&lt;/font&gt;&lt;/b&gt;&lt;b&gt;30&lt;/b&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;日&lt;/font&gt; &lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;宋体&quot;&gt;全国总决赛暨颁奖典礼&lt;/font&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;赛区设置&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;2025&lt;font face=&quot;宋体&quot;&gt;年竞赛设立&lt;/font&gt;5&lt;font face=&quot;宋体&quot;&gt;个分赛区，分别是华东分赛区、华北分赛区、华中及西南分赛区、西北分赛区和东北分赛区。&lt;/font&gt;2025&lt;font face=&quot;宋体&quot;&gt;年竞赛分赛区竞赛和全国总决赛将由南京大学、西安电子科技大学、哈尔滨工业大学、东北大学、北京工业大学、湖南大学、贵州大学、浙江大学、深圳大学、上海交通大学等共同承办。&lt;/font&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;校内组织及交流&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;1.有关参赛事项的要求和补充信息，请及时关注大赛官网：&lt;/font&gt;http://iot.sjtu.edu.cn&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;2.各参赛队伍请加入“哈工大-物联网设计竞赛报名QQ群”，群号：&lt;/font&gt;816152001&lt;font face=&quot;宋体&quot;&gt;，群二维码见下图。联系人：李老师（&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;QQ：&lt;/font&gt;375331136&lt;font face=&quot;宋体&quot;&gt;同微信）。如有其他未尽事宜请及时沟通。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;img alt=&quot;image-20250414081838-1&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;5f213ff1-11c1-4bcb-b0f9-00f6936d8ecc&quot; height=&quot;701&quot; src=&quot;/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image-20250414081838-1.jpeg&quot; width=&quot;395&quot;&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;3&lt;font face=&quot;宋体&quot;&gt;.备赛过程中会组织一系列物联网技术讲座，欢迎同学们积极参加。&lt;/font&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li class=&quot;15&quot; style=&quot;margin-left:8px&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;其他说明&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;本竞赛为我校本科生推免加分学科竞赛，具体加分细则详见各学院规定。&lt;/font&gt;&lt;/p&gt;</content:encoded>
+        </item>
         <item>
             <title><![CDATA[人文社科学部“心启点”二级心理辅导站暨职工心理小家第八周预约安排]]></title>
             <description><![CDATA[人文社科学部“心启点”二级心理辅导站暨职工心理小家第八周预约安排]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/14/120767</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/14/120767</guid>
-            <pubDate>Sun, 13 Apr 2025 23:52:54 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:09 GMT</pubDate>
             <content:encoded>&lt;p align=&quot;left&quot; style=&quot;margin-top:16px; margin-bottom:16px; text-align:left; text-indent:27.0pt&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;为了更好地帮助人文社科学部师生解决学习、工作和生活中的问题与困惑，促进学部师生健康发展，人文社科学部于2025年春季学期继续开放 “心启点”二级心理辅导站暨教职工心理小家，为学部师生提供倾诉和咨询的平台。二级心理辅导站暨教职工心理小家采取值班咨询制，现将“心启点”二级心理辅导站暨教职工心理小家第八周咨询室安排公布如下：&lt;/span&gt;&lt;/p&gt;
 
 &lt;table class=&quot;MsoTableGrid&quot; style=&quot;border-collapse:collapse; border:none&quot;&gt;
@@ -116,7 +207,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[【筑力·自习坊】 关于建筑与设计学院第八周学生集体自习安排通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/13/120764</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/13/120764</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:00 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:15 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -124,7 +215,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[建筑与设计学院“阳光小筑”二级心理辅导站、“职涯筑梦”二级就业辅导站第八周预约安排]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/13/120763</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/13/120763</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:04 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:20 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -132,7 +223,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[【心达驿站】化工与化学学院心理辅导站第八周预约安排通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/13/120758</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/13/120758</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:06 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:22 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;为更好地为化工与化学学院学子提供生活成长全方位的指导，帮助学生解决生涯规划、学业压力和生活困惑等问题，搭建一个开放的、更具针对性的交流平台，化工与化学学院“心达驿站”心理辅导站将于本学期第八周继续开放，充分发挥学工队伍的专长为同学们的成长服务。学工队伍教师作为固定师资采取值班咨询制。&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;一、工作方式&lt;/p&gt;
@@ -168,7 +259,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[【赋能未来】“为你而来”二级心理辅导站系列活动  释放压力，“鼓”动心灵——鼓圈心理解压沙龙]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/13/120757</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/13/120757</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:08 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:24 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;text-autospace:ideograph-numeric&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;为深入推进大学生心理健康教育&lt;/font&gt;&lt;font face=&quot;仿宋&quot;&gt;,让同学们更好的了解自己&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;，&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;加强&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;对自我心理健康状况的关注&lt;/font&gt;&lt;font face=&quot;仿宋&quot;&gt;,缓解&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;学业&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;压力和焦虑情绪&lt;/font&gt;&lt;font face=&quot;仿宋&quot;&gt;,促进身心健康协同发&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;展，未来技术学院现依托&lt;/font&gt;&lt;font face=&quot;仿宋&quot;&gt;“为你而来”二级心理辅导站开展系列活动。旨在通过丰富多彩的心理类活动，帮助同学们提升心理健康素质，以更加积极乐观的心态面对学习与生活的挑战，拥抱充实且美好的大学生活篇章。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -204,7 +295,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[哈工大专利交易与转化政策宣讲会成功举办]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/13/120756</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/13/120756</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:09 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:26 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-align:justify&quot;&gt;为深入贯彻国家创新驱动发展战略，全面落实黑龙江省“科技成果转化突破年”工作部署，发挥知识产权赋能龙江产业转型升级作用，助推高质量发展，4月11日，哈尔滨工业大学联合黑龙江省知识产权局、黑龙江省成果转化中心、黑龙江股权交易中心共同举办的“哈工大专利交易与转化政策宣讲会”在我校召开。我校国内合作处处长兼技术转移中心主任赵轶杰主持会议。&lt;/p&gt;
 
 &lt;p style=&quot;text-align:justify&quot;&gt;本次宣讲会恰值第25个世界知识产权日来临之际，是黑龙江省知识产权宣传月系列活动的重要组成部分。宣讲会围绕国家、省市、学校三级科技成果转化及知识产权相关政策展开，面向全体教师深入解读政策内涵，加深对政策要点的理解，增强实际运用能力，进一步提升科技成果转化实效。&lt;/p&gt;
@@ -246,7 +337,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[物理学院“心声悟理轩”二级心理辅导站、“理”想工作坊2025年春季学期第8周预约安排]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/12/120755</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/12/120755</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:11 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:28 GMT</pubDate>
             <content:encoded>&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:32.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;&lt;span style=&quot;text-autospace:ideograph-numeric&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;为更好地为物理学院同学们提供全方位指导和帮助，解答大家学习生活中的问题与困惑，促进健康成长和全面发展，物理学院于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年春季学期继续开放“心声悟理轩”二级心理辅导站、“理”想工作坊。二级心理、就业辅导站采取教师值班咨询制，现将&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年春季第&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;8&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;周咨询室安排公布如下：&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;img alt=&quot;image 19513&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;76d49c32-93e8-409c-b683-42460e851c1b&quot; height=&quot;310&quot; src=&quot;/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image_19513.png&quot; width=&quot;928&quot; class=&quot;align-center&quot;&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -270,7 +361,7 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[【动力赋能】能源学院“每周一赛”第一期主题团日活动预告]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/12/120753</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/12/120753</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:12 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:30 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:24.0pt; text-align:justify&quot;&gt;为丰富学生课余生活，促进跨团支部交流，同时结合能源专业特色，能源学院团委联合2202002团支部与2202003团支部，现策划举办“每周一赛”2025年春季学期第一期主题团日活动——“棋牌趣味运动会”，通过策略桌游、团队协作和趣味挑战，寓教于乐，提升学生的资源管理能力、逻辑思维及团队合作意识，具体活动通知如下：&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;一、活动主题&lt;/strong&gt;&lt;/p&gt;
@@ -430,48 +521,12 @@ https://www.wjx.cn/vm/tJEnZFR.aspx#&lt;/span&gt;&lt;/p&gt;</content:encoded>
             <description><![CDATA[关于哈尔滨工业大学第60届田径运动会竞赛规程的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/12/120752</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/12/120752</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:14 GMT</pubDate>
+            <pubDate>Mon, 14 Apr 2025 00:52:32 GMT</pubDate>
             <content:encoded>&lt;p&gt;各单位：&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;哈尔滨工业大学第60届田径运动会将于2025年5月23日-24日举行，现发布竞赛规程及参赛报名表，请按规定组织报名参赛。&lt;/p&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[【梦想扬帆，未来启航】未来技术学院 2025届毕业季“未来之星”优秀毕业生系列推送活动的通知]]></title>
-            <description><![CDATA[【梦想扬帆，未来启航】未来技术学院 2025届毕业季“未来之星”优秀毕业生系列推送活动的通知]]></description>
-            <link>https://today.hit.edu.cn/article/2025/04/11/120751</link>
-            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/11/120751</guid>
-            <pubDate>Sun, 13 Apr 2025 23:53:15 GMT</pubDate>
-            <content:encoded>&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;为充分发挥优秀毕业生示范引领作用，传承优良学风院风，助力在校学生明确发展方向，学院拟于2025届毕业生离校前夕组织开展“未来之星”专题分享活动。本次活动以“梦想扬帆，未来启航”为主题，通过组织优秀毕业生代表围绕学业规划、科研创新、社会实践及职业发展等内容开展经验分享，以专题访谈、公众号发布等形式讲述成长心路历程，并建立毕业生与在校生常态化帮辅机制，为在校学生提供精准指导。&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;margin-left:32px; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;b&gt;一、活动主体&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;梦想扬帆，未来启航&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;margin-left:32px; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;b&gt;二、面向对象&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;哈尔滨工业大学未来技术学院2025届全体毕业生&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;margin-left:32px; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;b&gt;三、活动时间&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;2025年4月7日-2025年6月初&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;margin-left:32px; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;b&gt;四、活动安排&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;margin-left:32px; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;（一）材料要求&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;参与同学需结合自身特质与求学经历，提炼出最能体现个人成长轨迹的核心关键词，围绕该关键词，以图文结合的方式回顾并讲述自己的大学故事。投稿要求提交图文并茂的Word文档（文字内容需配3-5张相关图片），所有投稿内容需通过审核后予以展示。&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;margin-left:32px; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;（二）提交事项&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;请有意向参与“未来之星”主题分享的同学于4月30日前完成相关材料报送；采用电子版方式投稿，文件名命名为“姓名-联系方式”；来稿邮件标题为“优秀毕业生推送”，发送至邮箱：&lt;a href=&quot;mailto:15531153801@163.com。&quot;&gt;15531153801@163.com&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify; text-indent:32.0pt&quot;&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;联系人：闫老师&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;paragraph&quot; style=&quot;text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;联系方式：15531153801&lt;/span&gt;&lt;/p&gt;</content:encoded>
         </item>
     </channel>
 </rss>
