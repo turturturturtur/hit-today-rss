@@ -4,15 +4,49 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Apr 2025 11:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 11:42:00 GMT</lastBuildDate>
         <atom:link href="https://turturturturtur.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
+        <item>
+            <title><![CDATA[科技商学 学术系列活动 | 沈阳航空航天大学王吉波“工件加工时间依赖开工时间的排序问题研究”讲座通知]]></title>
+            <description><![CDATA[科技商学 学术系列活动 | 沈阳航空航天大学王吉波“工件加工时间依赖开工时间的排序问题研究”讲座通知]]></description>
+            <link>https://today.hit.edu.cn/article/2025/04/19/120963</link>
+            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/19/120963</guid>
+            <pubDate>Sat, 19 Apr 2025 11:41:26 GMT</pubDate>
+            <content:encoded>&lt;p&gt;讲座主题：工件加工时间依赖开工时间的排序问题研究&lt;/p&gt;
+
+&lt;p&gt;主讲嘉宾：王吉波 沈阳航空航天大学教授&lt;/p&gt;
+
+&lt;p&gt;讲座时间：2025年4月24日 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;讲座方式：线下 土木楼419&lt;/p&gt;
+
+&lt;p&gt;讲座语言：中文&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;讲座摘要&lt;/p&gt;
+
+&lt;p&gt;在经典的排序问题中，通常假设工件的加工时间为常数。但在某些实际问题中，工件的加工时间可能与工件的开工时间有关，由此产生具有恶化（或学习）效应的排序问题，即工件的加工时间随着开工时间的增大而增大（或减小）。本报告主要介绍一下工件加工时间依赖开工时间的排序问题，包括单机、平行机与流水作业机等机器环境；工件间具有优先约束、成组约束等工件限制；目标函数包括正则与非正则等目标函数；求解的算法包括分支定界算法、启发式算法、智能算法（包括遗传算法、模拟退火算法、禁忌搜索算法）等。对他们的各种组合给出了一系列结论。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;主讲嘉宾简介&lt;/p&gt;
+
+&lt;p&gt;王吉波教授，博士学历，1975年4月出生，香港理工大学博士后，沈阳航空航天大学教授，博士生导师。主要研究方向是运筹学、组合优化与管理科学。先后入选辽宁省“兴辽英才计划”科技创新领军人才（辽宁特聘教授）、辽宁省 “百千万人才工程”百人层次、辽宁省高等学校创新人才支持计划等多项人才计划。主持了两项国家自然科学基金项目和二项省部级科研项目，发表130多篇学术论文，其中100多篇被SCI检索，2015—2025年连续11年入选爱思唯尔（elsevier）中国高被引学者榜单。&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;欢迎商学院各位老师和同学积极参与，请扫描二维码填写信息报名。&lt;/p&gt;
+&lt;img alt=&quot;&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;6a75226a-c793-4247-bf1e-2a5018537933&quot; src=&quot;/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/2025/04/19/F6561DB2A5ABD7B1EB4327E63B8_B7422CE1_2EB2.jpg&quot; width=&quot;200&quot; class=&quot;align-center&quot;&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content:encoded>
+        </item>
         <item>
             <title><![CDATA[2025年英国剑桥大学格顿学院暑期访学项目招生及宣讲通知]]></title>
             <description><![CDATA[2025年英国剑桥大学格顿学院暑期访学项目招生及宣讲通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/19/120961</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/19/120961</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:29 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:32 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -20,7 +54,7 @@
             <description><![CDATA[【心达驿站】化工与化学学院心理辅导站第九周预约安排通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/19/120960</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/19/120960</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:31 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:34 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;为更好地为化工与化学学院学子提供生活成长全方位的指导，帮助学生解决生涯规划、学业压力和生活困惑等问题，搭建一个开放的、更具针对性的交流平台，化工与化学学院“心达驿站”心理辅导站将于本学期第九周继续开放，充分发挥学工队伍的专长为同学们的成长服务。学工队伍教师作为固定师资采取值班咨询制。&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;一、工作方式&lt;/p&gt;
@@ -56,7 +90,7 @@
             <description><![CDATA[关于规范科研“出账合同”签订前采购程序的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/19/120959</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/19/120959</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:39 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:38 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -64,7 +98,7 @@
             <description><![CDATA[【哈尔滨工业大学创新创业讲坛】创赛是一道数据科学证明题]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/18/120932</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120932</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:45 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:43 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -72,7 +106,7 @@
             <description><![CDATA[【梦想扬帆，未来启航】未来技术学院 2025毕业季篮球赛活动预告]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/18/120955</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120955</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:47 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:44 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:32.0pt&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;六月蝉鸣，骊歌渐起。为致敬青春岁月，延续校园热血情怀，未来技术学院特举办毕业季篮球赛活动。本次赛事以&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background:white&quot; xml:lang=&quot;EN-US&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background:white&quot;&gt;梦想扬帆，未来启航&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background:white&quot; xml:lang=&quot;EN-US&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background:white&quot;&gt;为主题，旨在为毕业生打造充满仪式感的校园记忆，同时搭建情感交流平台，用篮球的激情碰撞为青春献礼。&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.0pt&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;一、面向对象&lt;/span&gt;&lt;/p&gt;
@@ -116,7 +150,7 @@
             <description><![CDATA[2025年度世界顶尖大学战略合作计划评审结果公示]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/18/120953</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120953</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:53 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:49 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -124,7 +158,7 @@
             <description><![CDATA[2025年英国牛津大学奥利尔学院暑期学分项目招生及宣讲通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/18/120949</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120949</guid>
-            <pubDate>Sat, 19 Apr 2025 11:32:57 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:53 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -132,7 +166,7 @@
             <description><![CDATA[关于申报2025年度黑龙江省经济社会发展重点研究课题的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/18/120937</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120937</guid>
-            <pubDate>Sat, 19 Apr 2025 11:33:03 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:41:58 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -140,7 +174,7 @@
             <description><![CDATA[读书节活动预告丨匠心讲堂：“不学诗，何以言？”]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/18/120948</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120948</guid>
-            <pubDate>Sat, 19 Apr 2025 11:33:04 GMT</pubDate>
+            <pubDate>Sat, 19 Apr 2025 11:42:00 GMT</pubDate>
             <content:encoded>&lt;p class=&quot;text-align-center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;她为《关雎》《蒹葭》续写新时代的浪漫篇章；&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;text-align-center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;她为《诗经》中的风雅颂注入灵动的现代节拍；&lt;/span&gt;&lt;/p&gt;
@@ -184,14 +218,6 @@
 &lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;&lt;strong&gt;哈尔滨工业大学201讲坛&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;欢迎各位教师、同学积极参加!&lt;/span&gt;&lt;/p&gt;</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[哈尔滨启航劳务派遣有限公司派遣至电子与信息工程学院拟派遣人员公示]]></title>
-            <description><![CDATA[哈尔滨启航劳务派遣有限公司派遣至电子与信息工程学院拟派遣人员公示]]></description>
-            <link>https://today.hit.edu.cn/article/2025/04/18/120946</link>
-            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/18/120946</guid>
-            <pubDate>Sat, 19 Apr 2025 11:33:11 GMT</pubDate>
-            <content:encoded></content:encoded>
         </item>
     </channel>
 </rss>
