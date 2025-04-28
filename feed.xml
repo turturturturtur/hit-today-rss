@@ -4,15 +4,37 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Apr 2025 07:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 08:28:30 GMT</lastBuildDate>
         <atom:link href="https://turturturturtur.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
+        <item>
+            <title><![CDATA[IEEE VTS 杰出讲者Yonghui Li教师讲座通知]]></title>
+            <description><![CDATA[IEEE VTS 杰出讲者Yonghui Li教师讲座通知]]></description>
+            <link>https://today.hit.edu.cn/article/2025/04/28/121321</link>
+            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121321</guid>
+            <pubDate>Mon, 28 Apr 2025 08:27:55 GMT</pubDate>
+            <content:encoded>&lt;p style=&quot;text-indent:21.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;等线&quot;&gt;应我校电信学院吴宣利教授、吴玮副教授的邀请，在&lt;/font&gt;&lt;font face=&quot;等线&quot;&gt;IEEE VTS哈尔滨分会IEEE ComSoc哈尔滨分会、IEEE BTS哈尔滨分会的支持下，无线通信领域的著名学者，IEEE VTS杰出讲者，悉尼大学Yonghui Li教授，将在线为我校师生进行学术讲座，讲座将重点讨论5G以及未来移动通信中超高可靠和超低延时领域的前沿话题，欢迎全校感兴趣的师生参加。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;等线&quot;&gt;在线讲座时间：&lt;/font&gt;&lt;font face=&quot;等线&quot;&gt;2025年4月29日上午16:00-17:30&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;等线&quot;&gt;在线讲座信息：腾讯会议：&lt;/font&gt;&lt;font face=&quot;等线&quot;&gt;457-168-767&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;等线&quot;&gt;讲座题目：&lt;/font&gt;uRLLC for 5G and Beyond&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;等线&quot;&gt;讲座内容摘要：&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;The world is currently witnessing the rise of many mission critical applications such as tele-surgery, intelligent transportation, industry automation, virtual reality and augmented reality, vehicular communications, etc. Some of these applications will be enabled by the fifth-generation of cellular networks (5G), which will provide the required ultra-reliable low latency communication (URLLC).&amp;nbsp; However, guaranteeing these stringent reliability and end-to-end latency requirements continues to prove to be quite challenging, due to the significant shift in paradigms required in both theoretical fundamentals of wireless communications as well as design principles. In particular, a holistic framework that takes into account latency, reliability, availability, scalability, and decision-making under uncertainty is lacking. Addressing these challenges requires the development of new wireless technologies, underlying network protocols, and signal processing techniques. In this talk, we will present the key challenges and potential solutions for 5G and beyond 5G to support URLLC, in terms of error control coding improving reliability, channel access protocols for reducing latency, AI for meeting uRLLC requirements in different application scenarios.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;等线&quot;&gt;Yonghui Li教师简介：&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;Yonghui Li is now a Professor and Director of Wireless Engineering Laboratory in School of Electrical and Information Engineering, University of Sydney. He is the recipient of the Australian Research Council (ARC)Queen Elizabeth II Fellowship in 2008 and ARC Future Fellowship in 2012. He is an IEEE Fellow and Clarivate highly cited researcher. His current research interests are in the area of wireless communications. Professor Li was an editor for IEEE transactions on communications, IEEE transactions on vehicular technology and guest editors for several special issues of IEEE journals, such as IEEE JSAC, IEEE IoT Journals, IEEE Communications Magazine. He received the best paper awards from several conferences. He has published one book, more than 300 papers in premier IEEE journals and more than 200 papers in premier IEEE conferences. His publications have been cited more than 25000 times.&lt;/p&gt;</content:encoded>
+        </item>
         <item>
             <title><![CDATA[“诗影觅名·词香寻韵” 猜诗词名在线知识竞赛]]></title>
             <description><![CDATA[“诗影觅名·词香寻韵” 猜诗词名在线知识竞赛]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121316</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121316</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:19 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:27:57 GMT</pubDate>
             <content:encoded>&lt;img alt=&quot;image-20250428153413-1&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;209b32f7-44ee-4b80-9fe4-a4df4967a93e&quot; height=&quot;342&quot; src=&quot;/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image-20250428153413-1.jpeg&quot; width=&quot;615&quot; class=&quot;align-center&quot;&gt;
 &lt;p align=&quot;justify&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;诗词宛如熠熠生辉的明珠，承载着千年的情思与智慧。它们或如黄钟大吕，奏响时代的激昂旋律；或似小桥流水，诉说着人间的温婉柔情。哈尔滨工业大学图书馆特举办“诗影觅名·词香寻韵”猜诗词名在线知识竞赛，引领大家在诗词的海洋中畅游，挖掘那些被岁月尘封的经典。&lt;/span&gt;&lt;/p&gt;
 
@@ -71,7 +93,7 @@
             <description><![CDATA[本科生院关于2025年春季学期第二批本科课堂教学准入工作安排的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121313</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121313</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:26 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:03 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -79,7 +101,7 @@
             <description><![CDATA[本科生院关于公布通过2025年春季学期第一批本科课堂教学准入教师名单的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121312</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121312</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:32 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:09 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -87,7 +109,7 @@
             <description><![CDATA[校区班车劳动节运行调整通告]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121310</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121310</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:34 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:11 GMT</pubDate>
             <content:encoded>&lt;p align=&quot;justify&quot; style=&quot;padding: 0px; text-indent: 43px; text-align: justify;&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;根据《学校办公室关于2025年劳动节放假安排的通知》，现将校区班车运行调整通告如下：&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;padding:0px; text-align:start; text-indent:43px; margin-bottom:10px&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;&lt;strong style=&quot;font-weight:bold&quot;&gt;一、一二校区班车&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -121,7 +143,7 @@
             <description><![CDATA[【Hi-Touch】国际教育学院“五洲之家” 二级心理辅导站2025年春季学期第10周预约安排]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121301</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121301</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:36 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:13 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:22.0pt; margin-bottom:11px&quot;&gt;为促进国际学生健康成长和全面发展，国际教育学院于2025年春季学期开放“五洲之家”二级心理辅导站，二级心理辅导站采取教师值班咨询制。现将“五洲之家”二级心理辅导站2025年春季学期第10周（4月28日至4月30日）咨询室安排公布如下。&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:22.0pt; margin-bottom:11px&quot;&gt;In order to promote the healthy growth and all-round development of international students, the College&amp;nbsp;of International Education launched&amp;nbsp;the “Home of International Love”&amp;nbsp;psychological counseling station in the 2025 spring&amp;nbsp;semester. The appointment schedule in the 10th week （from April&amp;nbsp;28 to April 30）of 2025&amp;nbsp;spring&amp;nbsp;semester is hereby announced as follows.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
@@ -178,7 +200,7 @@
             <description><![CDATA[航天学院二级心理辅导站、就业规划咨询室 春季学期第十周预约通知暨辅导员下沉办公安排公示]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121299</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121299</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:38 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:15 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:32.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;punctuation-wrap:simple&quot;&gt;&lt;font face=&quot;方正仿宋_GBK&quot;&gt;为更好地服务学生，帮助学生与情绪进行对话，引导学生正确面对思想、学习、生活等方面遇到的困惑，促进学生健康成长，同时帮助学生看见职业、感知未来、正确规划就业创业，航天学院面向全院学生开放二级心理辅导站、就业规划咨询室预约辅导服务。现将具体事宜通知如下。&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;punctuation-wrap:simple&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;一、时间安排（第&lt;/font&gt;&lt;font face=&quot;黑体&quot;&gt;十&lt;/font&gt;&lt;font face=&quot;黑体&quot;&gt;周）&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
@@ -247,7 +269,7 @@
             <description><![CDATA[2025年“C9高校”暑期项目（复旦大学）选拔结果公示]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121298</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121298</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:44 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:22 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -255,7 +277,7 @@
             <description><![CDATA[“大一学生专业解读面对面”第四期活动通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121297</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121297</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:46 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:24 GMT</pubDate>
             <content:encoded>&lt;p align=&quot;justify&quot; style=&quot;text-indent:21.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;span style=&quot;vertical-align:baseline&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;为落实立德树人根本任务，深化大一学生专业认知教育，搭建学生与各学院（部）教学管理部门、专业教师的沟通桥梁，解答学生学业困惑，推动院部协同育人，基础学部&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邀请各学院（部）师资力量与大一学生面对面，&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;开展专业解读系列活动。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p align=&quot;justify&quot; style=&quot;text-indent:21.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;span style=&quot;vertical-align:baseline&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;活动时间&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;：&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;2025年4月30日（星期三） &amp;nbsp;&amp;nbsp;15:50&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -289,15 +311,7 @@
             <description><![CDATA[【心·悦，相约】计算学部心理辅导站第十周预约安排]]></description>
             <link>https://today.hit.edu.cn/article/2025/04/28/121295</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121295</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:51 GMT</pubDate>
-            <content:encoded></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[【筑力工作室】 建筑与设计学院第十周学业活动预告]]></title>
-            <description><![CDATA[【筑力工作室】 建筑与设计学院第十周学业活动预告]]></description>
-            <link>https://today.hit.edu.cn/article/2025/04/28/121294</link>
-            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/04/28/121294</guid>
-            <pubDate>Mon, 28 Apr 2025 07:42:58 GMT</pubDate>
+            <pubDate>Mon, 28 Apr 2025 08:28:30 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
     </channel>
