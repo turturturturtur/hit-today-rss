@@ -4,15 +4,77 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 06:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 06:44:30 GMT</lastBuildDate>
         <atom:link href="https://turturturturtur.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
+        <item>
+            <title><![CDATA[‌2025年全国大学生嵌入式芯片与系统设计竞赛沁恒RISC-V MCU师生培训报名通知‌（北部赛区）]]></title>
+            <description><![CDATA[‌2025年全国大学生嵌入式芯片与系统设计竞赛沁恒RISC-V MCU师生培训报名通知‌（北部赛区）]]></description>
+            <link>https://today.hit.edu.cn/article/2025/05/08/121546</link>
+            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121546</guid>
+            <pubDate>Thu, 08 May 2025 06:43:57 GMT</pubDate>
+            <content:encoded>&lt;p class=&quot;text-align-justify&quot; style=&quot;text-indent: 21pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;为助力赛区师生备战&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;‌&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;全国大学生嵌入式芯片与系统设计竞赛应用赛道‌，提升嵌入式系统开发实践能力，现面向北部赛区高校师生开展‌沁恒&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;RISC-V MCU&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;应用开发专题培训，本次培训同时作为北部赛区师资培训活动，欢迎广大师生积极参与‌。本次培训由南京沁恒微电子股份有限公司提供技术支持，聚焦竞赛核心技能，提供从环境搭建到实战案例的全流程指导。&lt;/font&gt;&lt;/p&gt;
+
+&lt;h4 style=&quot;margin-top:19px; margin-bottom:19px; text-align:justify&quot;&gt;&lt;b&gt;&lt;font face=&quot;黑体&quot;&gt;‌培训亮点‌&lt;/font&gt;&lt;/b&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;1&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;． ‌权威内容‌&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌开发环境搭建‌：详解&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;WCH-Link E&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;工具链配置与调试技巧，快速搭建高效开发环境&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌外设驱动开发‌：覆盖&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;GPIO&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;、&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;UART&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;等常用外设的驱动编写与调试方法，夯实硬件交互基础&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;案例实战‌：结合竞赛赛题方向，演示典型应用场景开发流程，启发创新设计思路&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;2&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;． ‌竞赛赋能‌&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;培训内容与‌沁恒赛题‌深度契合，助力参赛团队高效完成作品设计，提升作品竞争力&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;提供与企业工程师面对面交流机会，解答技术难点，优化开发方案&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;． ‌实践导向‌&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;培训全程基于‌沁恒&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;RISC-V MCU&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;开发板‌实操（由企业提供），学员亦可自行携带设备现场参与，确保即学即用&lt;/font&gt;&lt;/p&gt;
+
+&lt;h4 style=&quot;margin-top:19px; margin-bottom:19px; text-align:justify&quot;&gt;&lt;b&gt;&lt;font face=&quot;黑体&quot;&gt;‌培训安排‌&lt;/font&gt;&lt;/b&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌时间‌：&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;5&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;月&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;18&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;日 &lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;14:00-17:30&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌地点‌：哈尔滨市南岗区西大直街&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;9&lt;/font&gt;2&lt;font face=&quot;宋体&quot;&gt;号&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:31.5000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;哈尔滨工业大学学士楼&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;3&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;层（电子信息类实习实践基地，&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;301&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;室）&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌对象‌：北部赛区各高校在校学生及教师（限&lt;/font&gt;50&lt;font face=&quot;宋体&quot;&gt;人）&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌报名‌：参训师生请加入&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;QQ&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;群（&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;961559479&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;）咨询&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;img alt=&quot;image-20250508140934-1&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;888d6a12-5ed6-4341-8a28-590834dc8446&quot; height=&quot;242&quot; src=&quot;/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image-20250508140934-1.png&quot; width=&quot;205&quot;&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;‌报名截止日时间：&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;5&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;月&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;16&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;日，中午&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;12:00&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;其它事宜：参训师生食宿自理，校外师生务必携带身份证方可入校&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;备赛正当时，实践创未来！&lt;/font&gt;&lt;font face=&quot;MS Gothic&quot;&gt;‌&lt;/font&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;本次培训为免费公益活动，因设备数量有限，限额&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;50&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;人。&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;欢迎各高校师生踊跃报名，共同探索&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;RISC-V&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;技术的无限可能！&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;主办单位：全国大学生嵌入式芯片与系统设计竞赛北部赛区执委会&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:52.5000pt; text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;哈尔滨工业大学电子与信息工程学院电子信息省级实验教学示范中心&lt;/font&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;协办单位：南京沁恒微电子股份有限公司&lt;/font&gt;&lt;/p&gt;</content:encoded>
+        </item>
         <item>
             <title><![CDATA[关于开展2025年哈尔滨工业大学“育人新星”青年导师、“桃李生辉”模范导师和优秀研究生导师团队评选工作的通知]]></title>
             <description><![CDATA[关于开展2025年哈尔滨工业大学“育人新星”青年导师、“桃李生辉”模范导师和优秀研究生导师团队评选工作的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121545</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121545</guid>
-            <pubDate>Thu, 08 May 2025 06:15:26 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:43:59 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-align:justify&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;各学院、学部、校区（以下简称学院）：&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;为迎接学校第九届教学节，大力弘扬教育家精神，充分发挥优秀导师和优秀导师团队的引领示范作用，激励中青年导师在研究生立德树人工作中不断改革创新、追求卓越，努力造就一支师德高尚、业务精湛、结构合理、充满活力的高素质专业化研究生导师队伍，促进我校研究生培养质量提升，决定开展第四届“育人新星”青年导师、首届“桃李生辉”模范导师和第二届优秀研究生导师团队评选工作。相关事宜通知如下：&lt;/span&gt;&lt;/p&gt;
@@ -80,7 +142,7 @@
             <description><![CDATA[【深夜彩蛋】哈工大图书馆闭馆音乐来袭！快来领取专属福利]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121544</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121544</guid>
-            <pubDate>Thu, 08 May 2025 06:15:27 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:01 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;亲爱的哈工大读者朋友们：&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;许久不见，甚是想念！还记得上次向大家征集闭馆音乐的活动吗？历经两个多月的翘首以盼，这份凝聚着大家热情与期待的闭馆音乐曲库，终于要在夜深时分，温柔地陪伴大家结束一天的学习啦！&lt;/span&gt;&lt;/p&gt;
@@ -98,7 +160,7 @@
             <description><![CDATA[关于组织2025年中国大学生机械工程创新创意大赛暨第16届过程装备实践与创新赛的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121542</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121542</guid>
-            <pubDate>Thu, 08 May 2025 06:15:32 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:07 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -106,7 +168,7 @@
             <description><![CDATA[教学管理中心关于组织2025年度全国教育科学规划项目申报工作的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121541</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121541</guid>
-            <pubDate>Thu, 08 May 2025 06:15:38 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:13 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -114,7 +176,7 @@
             <description><![CDATA[哈尔滨工业大学“功夫农园”——“一米菜园”认领]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121540</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121540</guid>
-            <pubDate>Thu, 08 May 2025 06:15:40 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:14 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;为深入贯彻新时代劳动教育方针，响应国家建设农业强国的号召，贯彻落实习近平总书记关于劳动教育的重要论述精神，&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;以贺信五周年为契机，&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;通过劳动实践弘扬哈工大百年&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;“扎根黑土、为国铸器”的奋斗精神。&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;学工部联合&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;总务处&lt;/font&gt;&lt;font face=&quot;Times New Roman, Times, serif&quot;&gt;/&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;后勤集团&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;依托&lt;/font&gt; &lt;font face=&quot;方正仿宋简体&quot;&gt;“一站式”学生社区育人平台，&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;着力构建浸润式耕读教育实践体系，&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;打造学生劳技实践的特色阵地，在二校区建设&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;“功夫农园”，现将&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;“功夫农园”建设&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;及&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;“一米菜园”认领事项&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;具体通知如下：&lt;/font&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;一、&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;“功夫农园”项目介绍&lt;/font&gt;&lt;/p&gt;
@@ -221,7 +283,7 @@
             <description><![CDATA[“留学哈工大”品牌系列学生活动——【Hi-Talk】咖啡角第二十五期活动预告]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121538</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121538</guid>
-            <pubDate>Thu, 08 May 2025 06:15:41 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:16 GMT</pubDate>
             <content:encoded>&lt;p align=&quot;left&quot; style=&quot;margin-top:14px; margin-bottom:14px; text-align:left; text-indent:30.0pt&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;background:white&quot; xml:lang=&quot;EN-US&quot;&gt;Let&apos;s speak up! Hi-Talk&lt;/span&gt;&lt;span style=&quot;background:white&quot;&gt;咖啡角来啦~&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p align=&quot;left&quot; style=&quot;margin-top:14px; margin-bottom:14px; text-align:left; text-indent:31.5pt&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;加入咖啡角，与来自世界各地的中外学生建立联系，探索丰富多彩的文化盛宴！&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -277,7 +339,7 @@
             <description><![CDATA[关于查阅2025年第一批联合创新指南的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/08/121537</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/08/121537</guid>
-            <pubDate>Thu, 08 May 2025 06:15:47 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:22 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -285,7 +347,7 @@
             <description><![CDATA[施工公告]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/07/121532</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/07/121532</guid>
-            <pubDate>Thu, 08 May 2025 06:15:49 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:24 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;padding:0px; text-align:start; margin-bottom:10px&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;1、工程名称：哈尔滨工业大学科学园综合服务楼A栋项目消防联网工程&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;padding:0px; text-align:start; margin-bottom:10px&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;2、工程作业区域：科学园综合服务楼A栋（A20公寓）、南苑餐厅及周边区域&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -329,15 +391,7 @@
             <description><![CDATA[2023-2024年度无锡太湖人才奖学金名单公示]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/07/121529</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/07/121529</guid>
-            <pubDate>Thu, 08 May 2025 06:15:53 GMT</pubDate>
-            <content:encoded></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[关于哈尔滨工业大学拟推报参加第十九届“挑战杯”黑龙江省大学生课外学术科技作品竞赛的项目信息公示]]></title>
-            <description><![CDATA[关于哈尔滨工业大学拟推报参加第十九届“挑战杯”黑龙江省大学生课外学术科技作品竞赛的项目信息公示]]></description>
-            <link>https://today.hit.edu.cn/article/2025/05/07/121527</link>
-            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/07/121527</guid>
-            <pubDate>Thu, 08 May 2025 06:15:58 GMT</pubDate>
+            <pubDate>Thu, 08 May 2025 06:44:30 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
     </channel>
