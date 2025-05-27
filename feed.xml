@@ -4,15 +4,41 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 May 2025 09:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 May 2025 09:46:44 GMT</lastBuildDate>
         <atom:link href="https://turturturturtur.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
+        <item>
+            <title><![CDATA[停电通知]]></title>
+            <description><![CDATA[停电通知]]></description>
+            <link>https://today.hit.edu.cn/article/2025/05/27/122100</link>
+            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122100</guid>
+            <pubDate>Tue, 27 May 2025 09:46:12 GMT</pubDate>
+            <content:encoded>&lt;p style=&quot;padding:0px; text-align:start; margin-bottom:10px&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;各用户单位：&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;因变压器检修，以下区域及单位于2025年5月31日（星期六）00:00至03:00期间停电，停电范围如下：&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;二校区结构楼、成和楼、网球场、环生楼、水实验楼、污泥国家工程实验室、暖通楼、环境学院、城市水资源开发利用国家开发研究中心、交通学院、未来交通国际创新平台、土木学院、土木学院风动实验室、土木科研楼、抗暴实验室、二区校医院、二区体检中心、二区体育场、天香食堂、文体中心消防泵房、木结构楼、废液处理站、土木科研楼后院板房、B06公寓、B02公寓B03公寓新增消防电源、上述区域路灯及暖廊等单位。&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;相关提示：&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;1.停电期间，不得自行改动和检修电气线路及设备；&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;2.电梯将在停电前半个小时停用；&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;3.来电后请相关单位注意检查用电设备是否运行正常，如发现异常，请及时拨打联系电话86413460。&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-justify&quot; style=&quot;padding: 0px; text-indent: 40px; margin-bottom: 10px;&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;特此通知。&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;padding:0px; text-align:right; margin-bottom:10px&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;后勤集团能源动力中心&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;padding:0px; text-align:right; margin-bottom:10px&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;font-variant-ligatures:normal&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;white-space:normal&quot;&gt;&lt;span style=&quot;text-decoration-thickness:initial&quot;&gt;&lt;span style=&quot;text-decoration-style:initial&quot;&gt;&lt;span style=&quot;text-decoration-color:initial&quot;&gt;&lt;span style=&quot;text-align:right&quot;&gt;2025&lt;/span&gt;&lt;span style=&quot;text-align:right&quot;&gt;年&lt;/span&gt;&lt;span style=&quot;text-align:right&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;text-align:right&quot;&gt;月&lt;/span&gt;&lt;span style=&quot;text-align:right&quot;&gt;27&lt;/span&gt;&lt;span style=&quot;text-align:right&quot;&gt;日&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded>
+        </item>
         <item>
             <title><![CDATA[【学术大师大讲堂第7期】——How the Universe Works: New Cosmological Observational Data and Surprises（宇宙如何运行：最新宇宙学观测数据与意外发现）]]></title>
             <description><![CDATA[【学术大师大讲堂第7期】——How the Universe Works: New Cosmological Observational Data and Surprises（宇宙如何运行：最新宇宙学观测数据与意外发现）]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122098</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122098</guid>
-            <pubDate>Tue, 27 May 2025 09:33:07 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:18 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -20,7 +46,7 @@
             <description><![CDATA[哈尔滨启航劳务派遣有限公司派遣到哈尔滨工业大学经济与管理学院招聘公告]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122099</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122099</guid>
-            <pubDate>Tue, 27 May 2025 09:33:09 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:20 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:22.0000pt; text-align:justify&quot;&gt;哈尔滨启航劳务派遣有限公司因工作需要，面向社会招聘工作人员1名，派遣到哈尔滨工业大学经济与管理学院工作。有关事宜通知如下：&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:22.1000pt; text-align:justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;一、应聘条件和要求&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
@@ -96,7 +122,7 @@
             <description><![CDATA[关于申报2025年度国家社会科学基金重大项目的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122097</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122097</guid>
-            <pubDate>Tue, 27 May 2025 09:33:15 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:25 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -104,7 +130,7 @@
             <description><![CDATA[毕业风华，汉裳写意]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122095</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122095</guid>
-            <pubDate>Tue, 27 May 2025 09:33:16 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:27 GMT</pubDate>
             <content:encoded>&lt;p class=&quot;p&quot; style=&quot;padding: 0pt;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;谁说毕业照只能千篇一律？ &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;p&quot; style=&quot;padding: 0pt;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;这个夏天，我们解锁了新姿势——把图书馆变成古风摄影棚！ &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
@@ -212,7 +238,7 @@
             <description><![CDATA[【治国栋梁大讲堂第三期暨交通强国有我论坛第九期】公路交通在国家发展战略中的支撑作用及其对人才特质的要求]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122094</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122094</guid>
-            <pubDate>Tue, 27 May 2025 09:33:18 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:29 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:32.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-family:Times New Roman,Times,serif;&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;为引导学生树立正确职业观，激发学生学业和职业生涯规划的自主性，现面向全校学生开展治国栋梁大讲堂活动。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.1500pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-family:Times New Roman,Times,serif;&quot;&gt;&lt;b&gt;&lt;span class=&quot;15&quot; style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;讲堂时间&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;5月28&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;日（星期三）&lt;/span&gt;16:00&lt;/span&gt;&lt;/p&gt;
@@ -248,7 +274,7 @@
             <description><![CDATA[哈尔滨工业大学材料结构精密焊接与连接全国重点实验室 2025年“实验室开放日”]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122093</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122093</guid>
-            <pubDate>Tue, 27 May 2025 09:33:20 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:31 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-family:Times New Roman,Times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;为响应国家科技部关于全国（国家）重点实验室在2025年全国科技活动周和全国科技工作者日期间开展公众开放活动的号召，提高全民科学素质，弘扬科学家精神，发挥学术团体的社会职能，哈尔滨工业大学材料结构精密焊接与连接全国重点实验室将于2025年6月1日开展面向社会的“实验室开放日”活动，搭建科技工作者与青少年交流平台，激发青少年的科技创新热情并提升实践能力，引领他们走进材料与焊接领域的杰出代表和大国工匠，深入了解十八大以来在党领导下材料与焊接科技事业发展的光辉历史和取得的重大成就，共同感受焊接科技的魅力，探索科技创新的无限可能。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;b style=&quot;font-size: 18px; font-family: &amp;quot;Times New Roman&amp;quot;, Times, serif; text-indent: 24pt;&quot;&gt;开放日主题：&lt;/b&gt;&lt;span style=&quot;font-size: 18px; font-family: &amp;quot;Times New Roman&amp;quot;, Times, serif; text-indent: 24pt;&quot;&gt;矢志创新发展&amp;nbsp;建设科技强国&lt;/span&gt;&lt;/p&gt;
@@ -296,7 +322,7 @@
             <description><![CDATA[哈尔滨工业大学国际教育学院招聘暑期项目兼职国际中文教师]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122091</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122091</guid>
-            <pubDate>Tue, 27 May 2025 09:33:22 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:32 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;方正仿宋_GBK&quot;&gt;哈尔滨工业大学国际教育学院是哈工大国际学生招生、管理及非学历教育的归口部门。因国际中文教学需要，国际教育学院拟招聘暑期项目兼职国际中文教师若干名（线下授课）。&lt;/font&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;font face=&quot;方正仿宋_GBK&quot;&gt;一、招募条件&lt;/font&gt;&lt;/p&gt;
@@ -344,7 +370,7 @@
             <description><![CDATA[关于预推荐优秀2026届本科毕业生参加香港地区高校2026/2027学年全日制博士研究生项目（直博预录取项目）选拔的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122089</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122089</guid>
-            <pubDate>Tue, 27 May 2025 09:33:27 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:39 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
         <item>
@@ -352,15 +378,7 @@
             <description><![CDATA[本科生院关于开展本科综合设计（论文） 重点项目结题验收的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/05/27/122088</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122088</guid>
-            <pubDate>Tue, 27 May 2025 09:33:33 GMT</pubDate>
-            <content:encoded></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[关于发布工信部2025年知识产权推进计划项目申报工作的通知]]></title>
-            <description><![CDATA[关于发布工信部2025年知识产权推进计划项目申报工作的通知]]></description>
-            <link>https://today.hit.edu.cn/article/2025/05/27/122087</link>
-            <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/05/27/122087</guid>
-            <pubDate>Tue, 27 May 2025 09:33:37 GMT</pubDate>
+            <pubDate>Tue, 27 May 2025 09:46:44 GMT</pubDate>
             <content:encoded></content:encoded>
         </item>
     </channel>
