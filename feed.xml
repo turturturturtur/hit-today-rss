@@ -4,7 +4,7 @@
         <description><![CDATA[哈工大今日公告 RSS]]></description>
         <link>https://today.hit.edu.cn/category/10</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Jul 2025 17:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 17:33:53 GMT</lastBuildDate>
         <atom:link href="https://turturturturtur.github.io/hit-today-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-cn]]></language>
         <item>
@@ -12,55 +12,322 @@
             <description><![CDATA[计算学部学生工作办公室关于2025年暑假期间学生安全工作的提示]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/20/123283</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/20/123283</guid>
-            <pubDate>Sun, 20 Jul 2025 17:10:54 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:10 GMT</pubDate>
+            <content:encoded></content:encoded>
         </item>
         <item>
             <title><![CDATA[讣告]]></title>
             <description><![CDATA[讣告]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/19/123281</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/19/123281</guid>
-            <pubDate>Sun, 20 Jul 2025 17:10:55 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:17 GMT</pubDate>
+            <content:encoded>&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;中国共产党党员，哈尔滨工业大学航天学院退休教师高级工程师邱华洲同志因病医治无效，于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;18&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;日在哈尔滨不幸逝世，享年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;72&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;岁。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1953&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;5&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月出生于黑龙江省哈尔滨市，籍贯辽宁开原，大学学历，理工学士学位，&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1969&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月参加黑龙江生产建设兵团，后赴重庆工业大学综合电子仪器厂工作，&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1974&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;8&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月到哈工大半导体器件专业工作及学习，&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1984&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;到&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;哈工大自动控制理论专业任教，直至退休。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1995&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月加入中国共产党，曾任自动控制理论教研室党支部书记，他始终如一坚定共产主义信仰，坚守对哈工大的深切情怀&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;，在&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;工作中服从组织安排，不计个人得失，艰苦奋斗、谦虚谨慎、心怀坦荡、廉洁自律。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;在职&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;工作&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;期间&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;，&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;兢兢业业、勤勤恳恳、任劳任怨、团结同事、关爱学生，深得老师和同学爱戴，为控制科学与工程学科&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;的&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;进步和发展做出了重要贡献。邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;的离世，使我们失去了一位好师长、好同事。深切缅怀&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;并&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;沉痛悼念邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志！&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志千古&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;！&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邱华洲&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;同志遗体告别仪式&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;定于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;20&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;日（周日）早&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;9:00&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;，在哈尔滨西华苑泰宁厅&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;举行&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;。参加告别仪式的师生、亲友请于当天早&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;8:00&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;，在&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;电机楼广场&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;乘车前往&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;text-indent:28.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;家属联系方式：&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;邱冬青&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;，&lt;/font&gt;13074551567&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot; class=&quot;16&quot; style=&quot;text-align:right&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;哈尔滨工业大学航天学院&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot; class=&quot;16&quot; style=&quot;text-align:right&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;layout-grid-mode:char&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2025&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;7&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;月&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;19&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;日&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded>
         </item>
         <item>
             <title><![CDATA[哈尔滨启航劳务派遣有限公司派遣至计算机科学与技术学院海量数据计算研究中心拟派遣人员公示]]></title>
             <description><![CDATA[哈尔滨启航劳务派遣有限公司派遣至计算机科学与技术学院海量数据计算研究中心拟派遣人员公示]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/19/123278</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/19/123278</guid>
-            <pubDate>Sun, 20 Jul 2025 17:10:56 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:25 GMT</pubDate>
+            <content:encoded>&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;根据《哈尔滨启航劳务派遣有限公司派遣到哈尔滨工业大学&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;计算机科学与技术学院海量数据计算研究中心&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;招聘公告》（&lt;/font&gt;&lt;font face=&quot;微软雅黑&quot;&gt;2024年8月2日），经资格审查、面试考核、体检合格，现公布拟派遣人员名单，对公示人员名单有异议的，请在公示期内，与海量数据计算研究中心联系。&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;公示时间：2025年7月1&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;9&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;日&lt;/font&gt;&lt;font face=&quot;微软雅黑&quot;&gt;-2025年7月2&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;5&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;日&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;联系人：高老师，联系方式：13945671460&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;拟派遣人员名单：&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:24.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;姓名&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;陈悦，性别&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;女，&lt;/font&gt;&lt;font face=&quot;微软雅黑&quot;&gt;1995年5月出生，大连工业大学，学士&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-right&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;微软雅黑&quot;&gt;哈尔滨启航劳务派遣有限公司&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;p text-align-right&quot; style=&quot;margin-top: 14px; margin-bottom: 14px;&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;计算机科学与技术学院海量数据计算研究中心&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-right&quot;&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font face=&quot;微软雅黑&quot;&gt;2025年7月1&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;9&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:normal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;日&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded>
         </item>
         <item>
             <title><![CDATA[关于开展2025年卓越工程师培养重点领域优秀案例建设申报的通知]]></title>
             <description><![CDATA[关于开展2025年卓越工程师培养重点领域优秀案例建设申报的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/18/123273</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/18/123273</guid>
-            <pubDate>Sun, 20 Jul 2025 17:10:57 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:30 GMT</pubDate>
+            <content:encoded></content:encoded>
         </item>
         <item>
             <title><![CDATA[化工与化学学院关于2025年夏季学期和暑假假期安全及相关工作的通知]]></title>
             <description><![CDATA[化工与化学学院关于2025年夏季学期和暑假假期安全及相关工作的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/18/123272</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/18/123272</guid>
-            <pubDate>Sun, 20 Jul 2025 17:10:58 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:33 GMT</pubDate>
+            <content:encoded>&lt;p style=&quot;text-align:justify&quot;&gt;各位同学：&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;根据学校2025年夏季学期和暑假时间安排及学院学生工作实际，现将学院2025年夏季学期和暑假时间安排及有关要求通知如下：&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;一、放假时间安排&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;夏季学期和暑假时间为6月30日（星期一）至8月31日（星期日），共9周。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;在校生8月30日（星期六）、8月31日（星期日）到校注册；9月1日（星期一）正式上课。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;教职工8月30日（星期六）、8月31日（星期日）正式上班；9月1日（星期一）秋季学期开学。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;二、注意事项及相关要求&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;1.注意防骗、防盗、防抢。警惕网络诈骗、信贷陷阱等事件，保护自己的人身和财产安全。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;2.严禁举行、参加或煽动他人举行、参加任何形式的非法集会、游行活动。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;3.遵纪守法，崇尚科学，不参加任何封建迷信和邪教活动等。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;4.提高文明用网意识，不发布、不转发未经证实的有可能会给社会或他人造成伤害的信息，做到不信谣、不传谣。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;5.假期期间，亲友、同学聚会较多，请同学们注意饮食健康，少饮酒、不酗酒，更不能酒后滋事，保持良好的身心健康。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;（一）外出同学注意事项&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;1.做好离校备案。学生需在哈工大APP首页-“假期离校备案”模块填写信息进行离校备案（批次为“2025年夏季学期及暑假离校备案”），并及时更新状态（6月30日-8月31日时段内可随时提交、修改备案信息）。准确填写离校开始时间、离校结束时间等信息。做好行程规划提前购票，严格按照放假时间合理安排离返校。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;2.假期期间交通客流较大，同学们在外出途中，乘坐交通工具时要提高警惕，随时注意个人随身财物的安全，避免被盗、被抢事件发生，避免人身伤害和财物损失，确保旅途人身安全。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;3.假期期间如遇突发事件，请及时与学院老师联系。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;（二）在校同学注意事项&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;1.在校同学要互相关心、互相帮助。遇到同学有困难或突发事件，要及时与辅导员及学院值班老师联系，寻求帮助。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;2.注意寝室安全问题。不要接待校外人员在寝室留宿；严禁私拉乱接电线、违章用电、使用大功率电器等；严禁将插排放置在床褥上使用；严禁在室内吸烟、焚烧物品，严禁存储易燃、易爆物品；离开宿舍时，及时断电并关好门窗；保管好贵重物品。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:justify&quot;&gt;三、做好实验室安全工作&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;1.实验人员须严格遵守安全操作规程，做必要安全防护措施，开展实验前后须检查设备状况及相关水、电、气线路，发现隐患或故障及时排除，严禁设备带故障运行。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;2.假期离校务必关好门窗，清桌锁柜，断电，并做好安全检查；在校人员注意用电安全，注意防火、防盗、防止发生安全事故。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;3.实验室要严格落实安全准入制度，禁止与实验无关人员进入实验室，不得在实验室内进行与实验无关的活动；严格遵守安全操作规程，使用有毒、有害、易燃、易爆危化品时，须严格按要求使用、保管和记录，废弃物及时联系学校相关部门收取处理；通宵实验必须完成审批后，方可开展实验。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;4.停用的实验室，要确保水、电、气和门窗处于关闭状态。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;5.认真落实并完善应急预案及相关应急措施，实验室一旦发生安全事故，要保持镇定，准确判断事故类型及危害程度，采取有效措施及时妥善处置。发生紧急事故时，应按下列优先次序处置：保护人身安全，即本人安全及他人安全；保护公共财产；保存重要学术资料。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;6.根据实际需求及时拨打相应的紧急救援电话，并立即向学院、保卫处和实验室与设备管理处等部门报告。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;学院安全员：张秋明 13304516193；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;保卫处电话：0451-86412110（一校区）；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:128.0pt; text-align:justify&quot;&gt;0451-86283110（二校区）；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:128.0pt; text-align:justify&quot;&gt;0451-86402110（科学园）。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;实验室与设备管理处电话：0451-86413736。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;心理中心24小时心理援助热线：0451-86413256。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;哈尔滨工业大学医院电话：0451-86413266.&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;祝各位同学度过一个安全、愉快的假期！&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot; style=&quot;text-align:right&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;化工与化学学院学生工作办公室&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot; style=&quot;text-align:right&quot;&gt;&lt;span style=&quot;background:white&quot;&gt;2025年7月18日&lt;/span&gt;&lt;/p&gt;</content:encoded>
         </item>
         <item>
             <title><![CDATA[图书馆关于2025年夏季学期和暑假时间 服务安排的通知]]></title>
             <description><![CDATA[图书馆关于2025年夏季学期和暑假时间 服务安排的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/18/123271</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/18/123271</guid>
-            <pubDate>Sun, 20 Jul 2025 17:10:59 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:40 GMT</pubDate>
+            <content:encoded>&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;根据学校统一安排，夏季学期和暑假时间为6月30日至8月31日，共9周，图书馆正常开馆。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一、咨询服务&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;时间：08:00–21:30&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;地点：一校区二楼总服务台，电话：86402416&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;二校区三楼服务台，电话：86286710&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;二、业务服务&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;时间：每周一至周五08:00–11:30，13:30–17:00&lt;/span&gt;&lt;/p&gt;
+
+&lt;table align=&quot;center&quot; class=&quot;MsoTableGrid&quot; style=&quot;border-collapse:collapse; border:none&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: black; padding: 0px 7px;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;服务&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: black; padding: 0px 7px;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;地点&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: black; padding: 0px 7px;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;电话、邮箱&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td rowspan=&quot;3&quot; style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;center&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;查收查引&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;科技查新&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区421室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86414637&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区421室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86403590&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;二校区204室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86281175&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;center&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;学位论文提交&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;center&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区421室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86403221&lt;/span&gt;&lt;/p&gt;
+
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;tanliyan2009@163.com&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;电子数据库使用服务&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区424室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86416388&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;图书荐购服务&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区424室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86414437&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;专利咨询服务&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区427室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86403288&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;网络故障维护服务&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区206室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86414837&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td rowspan=&quot;2&quot; style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;center&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;行政办公服务&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;一校区206室&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86414137&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;二校区三楼服务台&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0px 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot; valign=&quot;top&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;86286710&lt;/span&gt;&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;三、其他服务&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;1.总值班&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;时间：周一至周五17:00–22:30&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;周六日08:00–22:30&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;地点：一校区：508室，电话：86414237&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;二校区：202室，电话：86282709&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;2.图书馆主页网址&lt;a href=&quot;http://www.lib.hit.edu.cn/&quot;&gt;http://www.lib.hit.edu.cn/&lt;/a&gt;，24小时全天开放。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;3.更多入馆规则及使用指南请登陆图书馆主页参阅读者须知。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;4.有借阅需求的读者，查找图书可以联系服务台老师。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:2em;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;图书馆&lt;/span&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot; style=&quot;text-indent:2em;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;2025年7月18日&lt;/span&gt;&lt;/p&gt;</content:encoded>
         </item>
         <item>
             <title><![CDATA[2025年第四届中国研究生“双碳”创新与创意大赛校内报名通知]]></title>
             <description><![CDATA[2025年第四届中国研究生“双碳”创新与创意大赛校内报名通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/18/123269</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/18/123269</guid>
-            <pubDate>Sun, 20 Jul 2025 17:11:31 GMT</pubDate>
+            <pubDate>Sun, 20 Jul 2025 17:33:43 GMT</pubDate>
             <content:encoded>&lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;margin-top:14px; margin-bottom:14px; text-indent:32.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;&lt;span style=&quot;text-autospace:ideograph-numeric&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;中国研究生&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;“&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;双碳&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;”&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;创新与创意大赛（以下简称大赛）是&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;“&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;中国研究生创新实践系列大赛&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;”&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;主题赛事之一，由教育部学位管理与研究生教育司指导，中国学位与研究生教育学会、中国科协青少年科技中心主办。&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;202&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;5&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;年第&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;四&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;届大赛由&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;沈阳化工&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;大学承办，以&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;“&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;智慧双碳，创享未来&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;”&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;为主题，旨在进一步增强研究生对&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;“&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;双碳&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;”&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;战略理念的认识，提升研究生服务国家重大战略的自觉性，调动研究生参与双碳建设的积极性，提高碳达峰碳中和相关专业人才培养质量，推动高校与社会之间产学研的深度融合，促进科研项目及团队的成果转化，助力实现&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;“3060&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;双碳&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;”&lt;/font&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;目标。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;为做好校内参赛团队报名组织工作，&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;现将本届大赛有关情况通知如下。&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p align=&quot;justify&quot; class=&quot;p&quot; style=&quot;margin-top:14px; margin-bottom:14px; text-indent:32.0000pt; text-align:justify&quot;&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;word-break:break-all&quot;&gt;&lt;span style=&quot;text-autospace:ideograph-numeric&quot;&gt;&lt;span style=&quot;text-justify:inter-ideograph&quot;&gt;&lt;b&gt;&lt;span style=&quot;background:#ffffff&quot;&gt;&lt;span style=&quot;letter-spacing:0.0000pt&quot;&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;font face=&quot;方正仿宋简体&quot;&gt;一、大赛主题&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -126,23 +393,156 @@
             <description><![CDATA[“薪火相传能源报国，智启未来职规引路”哈尔滨工业大学能源科学与工程学院2025年职业生涯规划大赛初赛通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/18/123268</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/18/123268</guid>
-            <pubDate>Sun, 20 Jul 2025 17:11:32 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:46 GMT</pubDate>
+            <content:encoded>&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;为增强学生职业生涯规划意识与能力，引导学生树立正确的成才观、就业观和择业观，全面提升学生职业素养与就业竞争力，助力毕业生实现更高质量就业，能源科学与工程学院决定举办2025年职业生涯规划大赛初赛。现将有关事项通知如下：&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;一、大赛主题&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;薪火相传能源报国，智启未来职规引路&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;二、参赛人员&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;能源科学与工程学院本硕博学生&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;三、活动时间&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;2025年7月18日-10月1日&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;四、活动内容&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;本次大赛以培养职业生涯规划能力为目的，根据学生发展阶段和求职规划特点分为“成长赛道”、“就业本科生赛道”、“就业研究生赛道”三条赛道。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.15pt; text-align:justify&quot;&gt;&lt;b&gt;成长赛道&lt;/b&gt;面向本科二、三年级学生，重在考察学生树立生涯发展理念并合理设定职业目标、围绕实现目标持续行动并不断调整的成长过程，通过学习实践提升综合素质和专业能力，体现正确的择业就业观念。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.15pt; text-align:justify&quot;&gt;&lt;b&gt;就业本科生赛道&lt;/b&gt;面向本科三、四年级学生（不含已通过推免等确定升学的毕业年级学生），全体第二学士学位学生，重在考察学生求职实战能力，对照目标职业及岗位要求，个人综合素质和专业能力等方面的契合度，个人发展路径与就业市场需求的适应度。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.15pt; text-align:justify&quot;&gt;&lt;b&gt;就业研究生赛道&lt;/b&gt;面向全体研究生，重在考察学生求职实战能力，对照目标职业及岗位要求，个人综合素质和专业能力等方面的契合度，个人发展路径与就业市场需求的适应度。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;五、报名方式&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;有意愿报名学院初赛的同学需点击报名链接或扫描二维码进行报名，并上传相关材料：&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;成长赛道：&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;①生涯发展报告：介绍设定职业目标的过程；实现职业目标的具体行动和成效；职业目标及行动的动态调整等(PDF 格式，文字不超过2000字，图表不超过5张)。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;②生涯发展展示（PPT格式，不超过50MB；可加入视频）。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;就业赛道：&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;①求职简历（PDF格式）；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;②求职综合展示（PPT格式，不超过50MB；可加入视频）；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;③辅助证明材料，包括实践、实习、获奖等证明材料（PDF格式，整合为单个文件，不超过50MB）。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;提交参赛材料链接：&lt;a href=&quot;https://hitnyxy.mike-x.com/C2I9r&quot;&gt;https://hitnyxy.mike-x.com/C2I9r&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;提交参赛材料二维码：&lt;/p&gt;
+&lt;img alt=&quot;image-20250718110207-1&quot; data-entity-type=&quot;file&quot; data-entity-uuid=&quot;39cd6cc7-0bba-4f68-8b9d-a54ae1e6a142&quot; height=&quot;300&quot; src=&quot;/sites/default/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image-20250718110207-1.png&quot; width=&quot;300&quot; class=&quot;align-center&quot;&gt;
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;并根据具体参赛赛道填写附件《哈尔滨工业大学能源科学与工程学院2025年职业生涯规划大赛初赛选手汇总表》并发送至邮箱：&lt;a href=&quot;mailto:nyxyjob@163.com&quot;&gt;nyxyjob@163.com&lt;/a&gt;，邮件主题：职规大赛-姓名，报名时间截止至9月7日。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;学院最终将根据参赛学生报名情况，择优推荐参加学校复赛。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;六、奖项设置&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;在学院初赛中成长赛道，就业研究生赛道和就业本科生赛道各赛道设置奖项及数量如下：&lt;/p&gt;
+
+&lt;table class=&quot;MsoTableGrid&quot; style=&quot;border-collapse:collapse; border:none&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-width: 1px; border-style: solid; border-color: black; padding: 0cm 7px;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;赛道&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;金奖&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;银奖&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;铜奖&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;成长赛道&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;就业本科生赛道&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;就业研究生赛道&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;1&lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td style=&quot;border-bottom: 1px solid black; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none;&quot;&gt;
+			&lt;p align=&quot;center&quot; style=&quot;text-align:center&quot;&gt;2&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;金奖：共3名，奖品为小米手环；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;银奖：共3名，奖品为小米键盘；&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;铜奖：共6名，奖品为充电宝。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;此外，表现突出者将推荐参加校赛。所有参赛学生将获得哈尔滨工业大学能源科学与工程学院2025年职业生涯规划大赛初赛纪念奖及参与奖证书。&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;报名联系人：郭老师 18800413679&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=&quot;text-align-right&quot; style=&quot;text-indent: 256pt;&quot;&gt;能源科学与工程学院&lt;/p&gt;
+
+&lt;p class=&quot;text-align-right&quot; style=&quot;text-indent: 240pt;&quot;&gt;“碳”职未来就业工作室&lt;/p&gt;
+
+&lt;p class=&quot;text-align-right&quot; style=&quot;margin-left: 359px;&quot;&gt;2025年7月18日&lt;/p&gt;</content:encoded>
         </item>
         <item>
             <title><![CDATA[关于申报中国博士后科学基金第78批面上资助的通知]]></title>
             <description><![CDATA[关于申报中国博士后科学基金第78批面上资助的通知]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/18/123261</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/18/123261</guid>
-            <pubDate>Sun, 20 Jul 2025 17:11:55 GMT</pubDate>
-            <content:encoded>（正文抓取失败）</content:encoded>
+            <pubDate>Sun, 20 Jul 2025 17:33:50 GMT</pubDate>
+            <content:encoded></content:encoded>
         </item>
         <item>
             <title><![CDATA[《Nature Climate Change》主编 Bronwyn Wake博士专题讲座]]></title>
             <description><![CDATA[《Nature Climate Change》主编 Bronwyn Wake博士专题讲座]]></description>
             <link>https://today.hit.edu.cn/article/2025/07/17/123258</link>
             <guid isPermaLink="true">https://today.hit.edu.cn/article/2025/07/17/123258</guid>
-            <pubDate>Sun, 20 Jul 2025 17:12:32 GMT</pubDate>
+            <pubDate>Sun, 20 Jul 2025 17:33:53 GMT</pubDate>
             <content:encoded>&lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;应哈尔滨工业大学商学院邀请，在首届气候领导力国际会议开展前期，国际顶级期刊《Nature Climate Change》（NCC）主编Bronwyn Wake博士将于2025年7月18日，在哈尔滨工业大学土木楼419举办专场学术讲座。欢迎气候变化、环境政策及可持续发展领域的专家学者、师生踊跃参与。&lt;/p&gt;
 
 &lt;p style=&quot;text-indent:32.0pt; text-align:justify&quot;&gt;讲学时间：2025年7月18日 下午14:30&lt;/p&gt;
